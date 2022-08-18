@@ -15,4 +15,4 @@ dependencies:
   - scipy
   - pip
   - pip:
-    - opencv-python
+    - opencv-python-headless==4.5.3.56
